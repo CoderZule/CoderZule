@@ -5,8 +5,7 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Typing SVG ---------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
+<br>
 <p align="center">
 <a href="https://github.com/CoderZule">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=75A4FC&width=700&height=50&lines=Full Stack Web+Developer+%7C+Mobile+App+Developer;Enjoy+learning+Algorithms;Building+Something+Creative" />
