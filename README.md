@@ -23,10 +23,10 @@
 <!--- -- Brief Info ---------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-There's nothing quite like the thrill of discovering new frameworks and libraries that can make a real difference in solving real-world problems, whether in web or mobile development. <br>
+I don’t just build apps. I solve problems with code, turning ideas into real, impactful solutions. 🔥  <br>
 
 - 🚀 Strong problem-solving skills and a creative thinker.
-- 🔥 Enjoys playing chess in free time when not coding.
+- ♟️ Passionate about chess — always thinking a few moves ahead, even when I’m not coding.
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
