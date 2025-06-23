@@ -23,10 +23,12 @@
 <!--- -- Brief Info ---------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-I don’t just build apps. I solve problems with code, turning ideas into real, impactful solutions. 🔥  <br>
+I don’t just build apps — I solve problems with code, turning ideas into real, impactful solutions. 🔥
 
 - 🚀 Strong problem-solving skills and a creative thinker.
 - ♟️ Passionate about chess — always thinking a few moves ahead, even when I’m not coding.
+
+✨ Currently working on something big launching in 2026. Stay tuned for exciting innovations ahead!
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
