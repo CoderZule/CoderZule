@@ -52,5 +52,5 @@ I don’t just build apps — I solve problems with code, turning ideas into rea
 <!--- -- Snake Contribution Graph  ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-![Snake animation](https://github.com/CoderZule/CoderZule/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/CoderZule/CoderZule/blob/output/github-snake-dark.svg)
 
