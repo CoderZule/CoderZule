@@ -42,11 +42,6 @@ Currently building something exciting, set to launch in 2026. Stay tuned for inn
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderZule&theme=tokyonight" alt="GitHub Streak Stats" />
   </a>
-  <br/>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderZule&layout=compact&theme=algolia&langs_count=8" alt="Most Used Languages" />
-  </a>
 </p>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
