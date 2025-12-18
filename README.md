@@ -38,12 +38,15 @@ Currently building something exciting, set to launch in 2026. Stay tuned for inn
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 ## 📊 GitHub Stats
 
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CoderZule&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<p align="center">
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderZule&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+ &nbsp;&nbsp;&nbsp; 
+ <img width="40%" src="https://github-readme-stats.vercel.app/api?username=CoderZule&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=CoderZule&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoderZule&theme=tokyonight" alt="Profile Summary" />
 </p>
+ 
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Snake Contribution Graph  ------------------------------------------------------------------------------------------------------------------------------------ -->
