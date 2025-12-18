@@ -38,10 +38,11 @@ Currently building something exciting, set to launch in 2026. Stay tuned for inn
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 ## 📊 GitHub Stats
 
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CoderZule&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderZule&theme=tokyonight" alt="GitHub Streak Stats" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=CoderZule&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
