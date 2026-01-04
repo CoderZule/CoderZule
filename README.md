@@ -39,6 +39,10 @@ Currently building something exciting, set to launch in 2026. Stay tuned for inn
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=CoderZule&theme=dark" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CoderZule&layout=compact&theme=dark" alt="Top Languages" />
+  <br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoderZule&theme=tokyonight" alt="Profile Summary" />
 </p>
 
