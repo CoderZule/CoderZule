@@ -38,7 +38,6 @@ Passionate about building apps that solve real problems — not just writing cod
 <p align="center">
   <img src="https://github.com/user-attachments/assets/90f6f215-6b8d-4f31-a32a-098ea2033878" alt="CarthaGo App Preview" width="20%" />
   <br />
-  <em>📱 App interface showing AI itinerary, offline maps, and Tunisian cuisine guide</em>
 </p>
 
 Tourists visiting Tunisia often struggle with 🌐 language barriers, 📶 unreliable connectivity, and 📚 fragmented travel information.
@@ -64,7 +63,7 @@ Tourists visiting Tunisia often struggle with 🌐 language barriers, 📶 unrel
 - 📡 Offline-first architecture with smart caching
 - 🧼 Clean code: single responsibility, low coupling, reusable components
 
-> **CarthaGo is more than a travel app — it's a culturally-aware digital companion designed to help visitors experience Tunisia with confidence and ease 🇹🇳✨**
+> **CarthaGo is more than a travel app, it's a culturally-aware digital companion designed to help visitors experience Tunisia with confidence and ease 🇹🇳✨**
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
