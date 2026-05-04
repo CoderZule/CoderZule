@@ -36,7 +36,7 @@ Passionate about building apps that solve real problems — not just writing cod
 ## 🚀 Featured Project: CarthaGo – Your Intelligent Travel Companion to Tunisia 🇹🇳
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/90f6f215-6b8d-4f31-a32a-098ea2033878" alt="CarthaGo App Preview" width="20%" />
+  <img src="https://github.com/user-attachments/assets/e180aa4e-5a8f-47ac-83f3-f77db0e4fe23" alt="CarthaGo App Preview" width="60%" />
   <br />
 </p>
 
