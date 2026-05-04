@@ -17,7 +17,7 @@
 <!--- -- Brief Info ---------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-🚀 Freelance Full Stack Developer | Turning ideas into impactful solutions with code.
+🚀 Full Stack Developer | Turning ideas into impactful solutions with code.
 Passionate about building apps that solve real problems. not just writing code, but engineering meaningful experiences.
 
 ✨ What’s Next?
