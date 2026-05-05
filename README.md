@@ -48,7 +48,7 @@ Tourists visiting Tunisia often struggle with 🌐 language barriers, 📶 unrel
 
 | Category | Features |
 |----------|----------|
-| 📱 Core Experience | Offline-first (90% works without internet), Multilingual (EN/FR/DE/AR with RTL), Dark/Light mode with auto-detection |
+| 📱 Core Experience | Offline-first (90% works without internet), **25+ screens** covering the full travel experience, Multilingual (EN/FR/DE/AR with RTL), Dark/Light mode with auto-detection |
 | 🤖 Smart Tools | AI-powered itineraries (Google Gemini + offline fallback), Speak Tunisian with pronunciation playback |
 | 📍 Local Content | 16+ destinations, hotels, transport, full culinary guide (dishes, street food, desserts, breads), cultural dos & don'ts |
 | 🛡️ Safety | Emergency numbers, hospitals, pharmacies, tourist police, scam alerts |
