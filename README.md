@@ -32,41 +32,6 @@ Passionate about building apps that solve real problems — not just writing cod
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<!--- Featured Project -->
-## 🚀 Featured Project: CarthaGo – Your Intelligent Travel Companion to Tunisia 🇹🇳
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e180aa4e-5a8f-47ac-83f3-f77db0e4fe23" alt="CarthaGo App Preview" width="60%" />
-  <br />
-</p>
-
-Tourists visiting Tunisia often struggle with 🌐 language barriers, 📶 unreliable connectivity, and 📚 fragmented travel information.
-
-**I built "CarthaGo"** to solve these challenges and make exploring Tunisia simpler, safer, and more immersive ✨
-
-### ✨ Key Features (Production-Ready MVP):
-
-| Category | Features |
-|----------|----------|
-| 📱 Core Experience | Offline-first (90% works without internet), **25+ screens** covering the full travel experience, Multilingual (EN/FR/DE/AR with RTL), Dark/Light mode with auto-detection |
-| 🤖 Smart Tools | AI-powered itineraries (Google Gemini + offline fallback), Speak Tunisian with pronunciation playback |
-| 📍 Local Content | 16+ destinations, hotels, transport, full culinary guide (dishes, street food, desserts, breads), cultural dos & don'ts |
-| 🛡️ Safety | Emergency numbers, hospitals, pharmacies, tourist police, scam alerts |
-| ⭐ Personalization | Favorites, personal gallery, guest mode, cloud sync via Supabase |
-
-### 🛠️ Technical Highlights:
-
-- 🏗️ Clean Architecture (MVVM) for scalability & maintainability
-- 🧩 Feature-based modular design
-- 🎯 Design patterns: Repository, Singleton, Factory, Observer, Strategy
-- 🎨 Material Design 3 with smooth animations
-- 📡 Offline-first architecture with smart caching
-- 🧼 Clean code: single responsibility, low coupling, reusable components
-
-> **CarthaGo is more than a travel app, it's a culturally-aware digital companion designed to help visitors experience Tunisia with confidence and ease 🇹🇳✨**
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 <!--- Snake Contribution Graph -->
 ## 🐍 Contribution Graph
 
