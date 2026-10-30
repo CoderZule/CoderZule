@@ -11,7 +11,6 @@
 🚀 Freelance Full Stack Developer | Turning ideas into impactful solutions with code.<br/>
 Passionate about building apps that solve real problems — not just writing code, but engineering meaningful experiences.
 
-✨ **What's Next?** Currently building something exciting, set to launch in 2026. Stay tuned for innovation in action.
 
 💡 Let's collaborate on your next big idea.
 
@@ -19,21 +18,13 @@ Passionate about building apps that solve real problems — not just writing cod
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<!--- GitHub Stats -->
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=CoderZule&theme=dark" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CoderZule&layout=compact&theme=dark" alt="Top Languages" />
-  <br/><br/>
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoderZule&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<!--- Snake Contribution Graph -->
-## 🐍 Contribution Graph
 
 <div align="center">
   <img src="https://github.com/CoderZule/CoderZule/blob/output/github-snake-dark.svg" alt="Snake Contribution Graph" />
